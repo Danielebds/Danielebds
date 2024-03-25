@@ -9,5 +9,4 @@
 
 🔍 Estou aberta a novas oportunidades e colaborações em projetos inovadores. Se você está em busca de uma desenvolvedora comprometida e apaixonada por tecnologia, estou pronta para contribuir!
 
-![image](https://github.com/Danielebds/Danielebds/assets/104648340/a6235e97-3b03-4da5-9e0f-143ec68427c0)
 
