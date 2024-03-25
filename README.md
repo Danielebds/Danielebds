@@ -1,7 +1,7 @@
 
 
 
-🚀👩‍💻 Desenvolvedora Full Stack apaixonada por tecnologia!
+🚀👩‍💻 Desenvolvedora Web apaixonada por tecnologia!
 
 🌟 Olá! Sou uma estudante de Análise e Desenvolvimento de Sistemas, natural de Paulista, Pernambuco, com 24 anos de idade. Com uma sólida formação em Desenvolvimento Full Stack, estou sempre imersa no mundo da programação, buscando aprimorar minhas habilidades e explorar novas tecnologias.
 
