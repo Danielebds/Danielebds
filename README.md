@@ -47,7 +47,7 @@
 ##
 
 
-<div>
+<div align="center">
     <img height="180em" width="60%" src="https://github-readme-stats.vercel.app/api?username=Danielebds&theme=great-gatsby&show_icons=true">
     <a href="https://github.com/Danielebds">
     <img height="180em" width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielebds&layout=compact&theme=great-gatsby&langs_count=16">
@@ -56,4 +56,7 @@
         <source srcset="https://github-readme-stats.vercel.app/api?username=Danielebds&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)"/>
     </picture>
 </div>
-<img src="https://i.imgur.com/A6uiN0R.gif" height="300px">
+
+<div align="center">
+   <img src="https://i.imgur.com/A6uiN0R.gif" title="source: imgur.com" height="300px">
+</div>
