@@ -26,13 +26,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" width="78" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" width="78" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" width="78" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" width="78" alt="github logo"  />
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" height="60" width="78" alt="github logo" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" width="78" alt="npm logo"  />
 </div>
 
 ##
 
-<div align="center">
+<div align="center">  
 <h3> My Contacts </h3>
 
 <div align="center">
