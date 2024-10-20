@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Danielebds"><img src="https://readme-typing-svg.herokuapp.com/?lines=Developer+Full+Stack&font=Fira%20Code&center=true&width=440&height=45&color=%23F729AEFF&size=35"></a>
+  <a href="https://github.com/Danielebds"><img src="https://readme-typing-svg.herokuapp.com/?lines=Developer+Front+End&font=Fira%20Code&center=true&width=440&height=45&color=%23F729AEFF&size=35"></a>
 </p>
 
 ##
